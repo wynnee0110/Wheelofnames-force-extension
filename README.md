@@ -10,12 +10,15 @@
 
 ### Extension Preview
 
-Once the extension is loaded, the control panel should appear in the **top-left corner** of the page.
+Once the extension is loaded, this tab should appear in the **top-left corner** of the page.
 
-<p align="center">
+<p align="">
   <img src="1.png" width="420">
-  <img src="2.png" width="420">
 </p>
+<p align="">
+  <img src="2.png" width="320">
+</p>
+
 
 ---
 
