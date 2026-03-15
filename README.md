@@ -1,5 +1,5 @@
 
-# SpinForge
+# Wheel of Names Rigged
 
 ![Latest Release](https://img.shields.io/github/v/release/wynnee0110/Wheelofnames-force-extension)
 
