@@ -7,7 +7,7 @@ Wheel of Names spin controller extension.
 
 ## 📦 Latest Release
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/YOURNAME/spinforge/releases/latest)
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/Wynne/Wheelofnames-force-extension/releases/latest)
 
 ## Installation
 
