@@ -1,13 +1,15 @@
-# SpinForge
+<h2>📦 Releases</h2>
 
-Wheel of Names result control tool.
+<div style="border:1px solid #ccc; padding:15px; border-radius:10px; margin-bottom:10px;">
+<b>Version v1.2.0</b><br>
+Release Date: March 2026<br>
+Features: Performance improvements<br>
+<a href="https://github.com/USERNAME/REPO/releases/tag/v1.2.0">Download</a>
+</div>
 
-## Install
-
-1. Download the extension
-2. Extract the zip
-3. Load unpacked in Chrome
-
-⬇ Download:
-
-[Download ZIP](https://github.com/YOURNAME/REPO/archive/refs/heads/main.zip)
+<div style="border:1px solid #ccc; padding:15px; border-radius:10px; margin-bottom:10px;">
+<b>Version v1.1.0</b><br>
+Release Date: February 2026<br>
+Features: Added UI panel<br>
+<a href="https://github.com/USERNAME/REPO/releases/tag/v1.1.0">Download</a>
+</div>
