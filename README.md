@@ -16,3 +16,20 @@ Wheel of Names spin controller extension.
 3. Open `chrome://extensions`  
 4. Enable **Developer Mode**  
 5. Click **Load Unpacked**
+
+---
+
+## ⚠️ Limitations
+
+**Maximum Supported Entries: 100**
+
+This extension can rig the wheel only when the total number of entries is **100 or fewer**.
+If the wheel contains **more than 100 entries**, the rigging logic will not activate and the spin will behave normally.
+
+This limitation exists due to the way the extension calculates offsets and patterns for determining the final wheel position. Keeping the entry count at **100 or below** ensures accurate and consistent results.
+
+**Recommendation:**
+For best performance and reliability, keep
+
+
+
